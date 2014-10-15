@@ -1,0 +1,10 @@
+INDEX VERSION 1.126+C:\Users\Zariyan Sachedina\Desktop\androidlast3\.metadata\.plugins\org.eclipse.jdt.core
+2906847687.index
+848856923.index
+1552554237.index
+3023042522.index
+2250968015.index
+4007466841.index
+4121811707.index
+100183174.index
+2978042649.index

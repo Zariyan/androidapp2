@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/city_seattle"
+        android:showAsAction="always"
+        android:title="@string/seattle"/>
+    <item
+        android:id="@+id/city_newyork"
+        android:showAsAction="always"
+        android:title="@string/newyork"/>
+    <item
+        android:id="@+id/city_sydney"
+        android:showAsAction="always"
+        android:title="@string/sydney"/>
+
+</menu>
